@@ -1,6 +1,6 @@
 # A* Search Algorithm.
 Anyone of you can use this library to do A* search
-[Github Open Source](https://github.com/Mrrobi/astarSearch)
+[PyPi](https://pypi.org/project/astarRobi/)
 
 ## Existing methods
 * feed(self,heuristic_value_list,adjacency_matrix,node_name_dictionary)
